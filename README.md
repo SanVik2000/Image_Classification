@@ -7,3 +7,8 @@ To run this project execute the following command<br>
 ## Requirements
 To run and test this library without any errors, the following requisites should be met:<br>
 - Pytorch(With/Without GPU Compatibility)
+## Results
+- LeNet-5:<br>
+![Training & Testing LeNet-5 on CIFAR10 Dataset](files/LeNet.png)<br>
+- VGG16:<br>
+![Training & Testing VGG16 on CIFAR10 Dataset](files/VGG16.png)<br>
