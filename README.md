@@ -5,5 +5,5 @@ This project is implemented using PyTorch, and each model architecture is define
 To run this project execute the following command<br>
 ```python3 Main.py```<br>
 ## Requirements
-To run and test this librar without any errors, the following requisites should be met:<br>
+To run and test this library without any errors, the following requisites should be met:<br>
 - Pytorch(With/Without GPU Compatibility)
