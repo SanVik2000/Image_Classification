@@ -20,6 +20,7 @@ The following results have been obtained by using just 20 epochs. More accurate 
 - VGG16:<br>
 ![Training & Testing VGG16 on CIFAR10 Dataset](files/VGG16.png)<br>
 ## To-Do
+The following algorithms are yet to be implemented and this project is still under constructions.<br>
 - [x] AlexNet
 - [ ] DenseNet
 - [ ] GoogLeNet
