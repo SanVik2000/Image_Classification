@@ -10,5 +10,7 @@ To run and test this library without any errors, the following requisites should
 ## Results
 - LeNet-5:<br>
 ![Training & Testing LeNet-5 on CIFAR10 Dataset](files/LeNet.png)<br>
+- AlexNet:<br>
+![Training & Testing AlexNet on CIFAR10 Dataset](files/AlexNet.png)<br>
 - VGG16:<br>
 ![Training & Testing VGG16 on CIFAR10 Dataset](files/VGG16.png)<br>
