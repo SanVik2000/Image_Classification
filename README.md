@@ -19,3 +19,8 @@ The following results have been obtained by using just 20 epochs. More accurate 
 ![Training & Testing AlexNet on CIFAR10 Dataset](files/AlexNet.png)<br>
 - VGG16:<br>
 ![Training & Testing VGG16 on CIFAR10 Dataset](files/VGG16.png)<br>
+## To-Do
+- [x] AlexNet
+- [ ] DenseNet
+- [ ] GoogLeNet
+- [ ] ResNet
